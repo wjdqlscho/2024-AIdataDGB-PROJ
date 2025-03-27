@@ -4,7 +4,6 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-# MongoDB 설정
 MONGO_URI = "추후 변경"
 client = pymongo.MongoClient(MONGO_URI, tlsCAFile=certifi.where())
 db = client['project_db']
