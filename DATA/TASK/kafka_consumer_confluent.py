@@ -1,7 +1,7 @@
 import json
 from confluent_kafka import Consumer, KafkaError
 
-KAFKA_BROKER = 'pkc-921jm.us-east-2.aws.confluent.cloud:9092'
+KAFKA_BROKER = 'pkc-921==========개인정보-----------'
 KAFKA_TOPIC = 'input_data'
 KAFKA_GROUP_ID = 'input_data_consumer_group'
 KAFKA_CONFIG = {
