@@ -1,6 +1,5 @@
 import mysql.connector
 
-# MySQL 설정
 mysql_conn = mysql.connector.connect(
     host="localhost", user="root", password="password", database="project_db"
 )
