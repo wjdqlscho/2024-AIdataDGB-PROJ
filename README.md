@@ -1,10 +1,3 @@
-사람들이 자신의 꿈(사업, 학업, 여행 등)을 등록하고 투자자들이 소액으로 투자할 수 있는 서비스
-
-# ✅ 간단한 기능 소개
-AI를 활용해 등록된 꿈의 신뢰도를 분석,
-투자 리스크를 분산해 안정적인 투자 환경을 제공
-
-# ⚙️ 개발 환경
 IDE : Visual Studio Code, WebStorm
 <br>
 Runtime : Node.js, Spring boot
